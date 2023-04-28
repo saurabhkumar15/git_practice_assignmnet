@@ -1,2 +1,2 @@
 let a = 4;
-(b%2==0) ? console.log("even") : console.log("odd");
+(a%2==0) ? console.log("even") : console.log("odd");
